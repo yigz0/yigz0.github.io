@@ -1,0 +1,3 @@
+jekyll new my-site
+cd my-site
+bundle exec jekyll serve
